@@ -1,0 +1,1 @@
+Bu python scriptinde web tarayıcısı gibi davranarak User-Agent sahteciliğiyle http://www.python.org adresine istek gönderen bir program oluşturduk hazır alömıştık.
